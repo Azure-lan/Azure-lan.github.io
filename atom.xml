@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-11T06:49:20.455Z</updated>
+  <updated>2023-01-13T07:30:55.602Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>阳光不燥，微风正好</title>
+    <link href="http://example.com/posts/b8cf1317.html"/>
+    <id>http://example.com/posts/b8cf1317.html</id>
+    <published>2023-01-13T10:57:50.000Z</published>
+    <updated>2023-01-13T07:30:55.602Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="夏至"><a href="#夏至" class="headerlink" title="夏至"></a>夏至</h1><blockquote><p>一生的时间很短<br>   短到不过是两颗心之间的距离<br>   一生的时间也很长<br>   不如我们试着走走看</p></blockquote><div class="tip "><p>default</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;夏至&quot;&gt;&lt;a href=&quot;#夏至&quot; class=&quot;headerlink&quot; title=&quot;夏至&quot;&gt;&lt;/a&gt;夏至&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;一生的时间很短&lt;br&gt;   短到不过是两颗心之间的距离&lt;br&gt;   一生的时间也很长&lt;br&gt;   不如我们试着走走</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>kepp you head up princess</title>
+    <link href="http://example.com/posts/deacb817.html"/>
+    <id>http://example.com/posts/deacb817.html</id>
+    <published>2023-01-13T07:57:50.000Z</published>
+    <updated>2023-01-13T07:30:55.599Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="mood"><a href="#mood" class="headerlink" title="mood"></a>mood</h1><blockquote><p>你想去的地方   终有一天会到达<br>   想爱的人    会在某处等你回家<br>   下一站   蔚蓝<br>   天空是风的答案<br>   那些没去做的  才是最遗憾的<br>   泪流满面  依然用力地  往前走<br>   黑夜也很好<br>   刚好一起看银河<br>   So keep your head up</p></blockquote><div class="tip "><p>default</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;mood&quot;&gt;&lt;a href=&quot;#mood&quot; class=&quot;headerlink&quot; title=&quot;mood&quot;&gt;&lt;/a&gt;mood&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;你想去的地方   终有一天会到达&lt;br&gt;   想爱的人    会在某处等你回家&lt;br&gt;   下一站</summary>
+      
+    
+    
+    
+    
+    <category term="心情" scheme="http://example.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
